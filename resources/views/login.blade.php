@@ -15,7 +15,6 @@
                             Start using our event management calendar today and make your plans organized in your life!
                         </p>
                     </div>
-
                     <div class="col-lg-6 mb-5 mb-lg-0">
                         <div class="card">
                             <div class="card-body py-5 px-md-5">
@@ -90,7 +89,6 @@
                         err.html("Enter email field")
 
                     }
-
                 })
             });
         </script>

@@ -129,7 +129,7 @@
                 })
             },
             eventClick: function(event) {
-                if (confirm("Are You Sure You want To click")) {
+                if (confirm("Are You Sure You want To delete the event ?")) {
                     var id = event.id
                     $.ajax({
                         url: "/calender/action",
