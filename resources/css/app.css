@@ -1,0 +1,17 @@
+.cal-hidden {
+    display: none;
+}
+.contentdiv {
+    margin-top: 120px !important;
+    height: 100% !important;
+}
+.footertext {
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 42%;
+}
+li {
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
